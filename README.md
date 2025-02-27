@@ -1,8 +1,7 @@
 # 💫 About Me:
 Hi my name is Kajal 🦌.</br>
-I'm currently a computer engineering M.S student working on my thesis.</br>
-I aspire to become a Front-end Developer and I've recently been interested in Data Analysis and NLP since my thesis topic is related to it.
-
+I'm a Computer Engineering M.S working on my skills.</br>
+I aspire to become a Front-end Developer and an AI Researcher in NLP.
 
 
 ## 🌐 Socials:
