@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi my name is Kajal 🦌.</br>
 I'm a Computer Engineering PhD student working on my skills.</br>
-I'm passionate about building intelligent systems that understand language and solve real-world problems. I'm into NLP, software development, and full-stack magic—crafting everything from clean backend logic to sleek user interfaces. Always learning, always coding 🌟
+I'm passionate about building intelligent systems that understand language and solve real-world problems. I'm into NLP, software development, full-stack magic, and crafting everything from clean backend logic to sleek user interfaces. Always learning, always coding 🌟
 
 
 ## 🌐 Socials:
